@@ -1,1 +1,1 @@
-This file is created thru Branch1
+This file is created thru Branch1 and merged with master
